@@ -32,7 +32,6 @@ crypto-tracker/
 └── README.md
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/crypto-tracker.git
 2️⃣ Navigate to Project Folder
 cd crypto-tracker
 3️⃣ Install Dependencies
