@@ -86,14 +86,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-Add project screenshots here.
-
-```md
-![Home Page](./screenshots/home.png)
-```
 
 ---
 
